@@ -1,0 +1,9 @@
+c:\users\matthew\documents\visual studio 2013\Projects\Presidents_1-11\bin\Debug\Presidents_1-11.exe.config
+c:\users\matthew\documents\visual studio 2013\Projects\Presidents_1-11\obj\Debug\Presidents_1-11.csprojResolveAssemblyReference.cache
+c:\users\matthew\documents\visual studio 2013\Projects\Presidents_1-11\obj\Debug\Presidents1_11.Form1.resources
+c:\users\matthew\documents\visual studio 2013\Projects\Presidents_1-11\obj\Debug\Presidents1_11.Properties.Resources.resources
+c:\users\matthew\documents\visual studio 2013\Projects\Presidents_1-11\obj\Debug\Presidents_1-11.csproj.GenerateResource.Cache
+c:\users\matthew\documents\visual studio 2013\Projects\Presidents_1-11\bin\Debug\Presidents_1-11.exe
+c:\users\matthew\documents\visual studio 2013\Projects\Presidents_1-11\bin\Debug\Presidents_1-11.pdb
+c:\users\matthew\documents\visual studio 2013\Projects\Presidents_1-11\obj\Debug\Presidents_1-11.exe
+c:\users\matthew\documents\visual studio 2013\Projects\Presidents_1-11\obj\Debug\Presidents_1-11.pdb
