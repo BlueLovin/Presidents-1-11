@@ -125,24 +125,18 @@ namespace Presidents1_11
             }
         }
 
-        private void clearToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            
-        }
-        /// <summary>
-        /// made to clean up after the user is done
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
         private void clearToolStripMenuItem_Click_1(object sender, EventArgs e)
         {
-            
+            clear();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             clear();
         }
+        /// <summary>
+        /// clears textboxes and checkboxes, beats the hell out of restarting the program.
+        /// </summary>
         private void clear()
         {
             //clears the text boxes
